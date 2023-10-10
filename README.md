@@ -19,8 +19,8 @@ Analyze sample sales data file in order to uncover growth opportunites
 - [X] Set up Github account and create README statement
 - [X] Download sample data file from Kaggle
 - [X] Identify 3+ Key Questions to address in the analysis
-- [ ] PART 4 Tasks (Creating Issues on Github)
-- [ ] PART 5 Tasks (The README & Collaboration)
+- [X] PART 4 Tasks (Creating Issues on Github)
+- [X] PART 5 Tasks (The README & Collaboration)
 - [ ] PART 6 Tasks (Project Board)
 - [ ] PART 7 Tasks (Jupyter Notebook & Markdown Practice)
 
