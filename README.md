@@ -24,5 +24,3 @@ Analyze sample sales data file in order to uncover growth opportunites
 - [ ] PART 6 Tasks (Project Board)
 - [ ] PART 7 Tasks (Jupyter Notebook & Markdown Practice)
 
-## Bert Comments
-Agree with your project overview and looking forward to seeing the results!
