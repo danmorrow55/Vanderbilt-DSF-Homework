@@ -21,6 +21,6 @@ Analyze sample sales data file in order to uncover growth opportunites
 - [X] Identify 3+ Key Questions to address in the analysis
 - [X] PART 4 Tasks (Creating Issues on Github)
 - [X] PART 5 Tasks (The README & Collaboration)
-- [ ] PART 6 Tasks (Project Board)
+- [X] PART 6 Tasks (Project Board)
 - [ ] PART 7 Tasks (Jupyter Notebook & Markdown Practice)
 
